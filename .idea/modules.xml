@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01. GenericClass/01. GenericClass.iml" filepath="$PROJECT_DIR$/01. GenericClass/01. GenericClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.  GenericMethod/02.  GenericMethod.iml" filepath="$PROJECT_DIR$/02.  GenericMethod/02.  GenericMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. Invariant/03. Invariant.iml" filepath="$PROJECT_DIR$/03. Invariant/03. Invariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. Covariant/04. Covariant.iml" filepath="$PROJECT_DIR$/04. Covariant/04. Covariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. Contravariant/05. Contravariant.iml" filepath="$PROJECT_DIR$/05. Contravariant/05. Contravariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. BoundedTypeParam/06. BoundedTypeParam.iml" filepath="$PROJECT_DIR$/06. BoundedTypeParam/06. BoundedTypeParam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. WildCard/07. WildCard.iml" filepath="$PROJECT_DIR$/07. WildCard/07. WildCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. TypeErasure/08. TypeErasure.iml" filepath="$PROJECT_DIR$/08. TypeErasure/08. TypeErasure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaGeneric.iml" filepath="$PROJECT_DIR$/javaGeneric.iml" />
+    </modules>
+  </component>
+</project>
